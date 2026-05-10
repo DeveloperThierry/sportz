@@ -57,3 +57,6 @@ This project includes Site24x7 APM integration to monitor latency, CPU, and memo
 ## 🤝 Acknowledgments
 
 Special thanks to Adrian for WebSockets assets and project guidance.
+
+
+![Database](/public/db.png)
